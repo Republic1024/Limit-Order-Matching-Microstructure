@@ -1,0 +1,24 @@
+# -------------------------
+# Python 基础
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+*.dll
+*.dylib
+*.exe
+
+# -------------------------
+# IDE & 编辑器
+# -------------------------
+.idea/
+*.iml
