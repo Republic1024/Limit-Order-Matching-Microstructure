@@ -1,8 +1,8 @@
 # Limit-Order-Matching-Microstructure
-
+Paper: https://arxiv.org/abs/2511.20606  
+Code: https://github.com/Republic1024/Limit-Order-Matching-Microstructure
 ### Unifying Matching Markets and Limit Order Books through Microstructure Dynamics  
 ### Code Release for: *Limit Order Book Dynamics in Matching Markets: Microstructure, Spread, and Execution Slippage*
-https://arxiv.org/abs/2511.20606
 
 ![simulation_results.png](simulation_results.png)
 ---
