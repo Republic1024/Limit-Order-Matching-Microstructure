@@ -4,6 +4,7 @@
 ### Code Release for: *Limit Order Book Dynamics in Matching Markets: Microstructure, Spread, and Execution Slippage*
 https://arxiv.org/abs/2511.20606
 
+![simulation_results.png](simulation_results.png)
 ---
 
 ## 📌 Overview
